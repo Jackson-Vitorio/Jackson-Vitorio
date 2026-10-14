@@ -1,20 +1,32 @@
+# Jackson-Vitorio
 
-### Hello, Welcome to my Git. 
+Olá — sou Jackson, desenvolvedor com foco em Python, Ruby, desenvolvimento web e segurança cibernética (cybersecurity).  
+Eu mantenho projetos pessoais que vão desde experimentos com jogos (Godot), ferramentas web para D&D, até utilitários e estudos envolvendo bancos de dados e automação.
 
-[![Badges](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] Foxyytkt@gmail.com
+Contato
+- Email: Foxyytkt@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jackson-vit%C3%B3rio-9851a0262/
 
-[![Badges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-vitório-9851a0262/)
-[![Badges](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+O que eu faço / interesses
+- Desenvolvimento back-end (Python, Ruby)
+- Segurança da informação e testes (pentesting, análise de vulnerabilidades, hardening)
+- Ferramentas de automação e scripts para auditoria
+- Integração com APIs e projetos open-source
 
-![Jack GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackson-Vitorio&show_icons=true&theme=dark)
+Repositórios em destaque
+- e4all-world_sync — fork de e4mc com suporte a Offline Mode e World Sync via GitHub (preservei o código original e adicionei funcionalidades próprias)
+- projeto-dnd — ferramentas web para D&D 5e (tradução/adaptação de 5e.tools)
+- projeto-pix — experimentos em Ruby
+- Taquify — (em desenvolvimento)
+- SQLITE-AND-PYTHON-DATABASE — exemplo de uso de SQLite com Python
 
-<div style="display: inline_block"><br/>
-    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"     />
-       <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"     />
-          <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"     />
-             <img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"     />
-             <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"     />
-</div><br/>
+Segurança e bom uso de tokens
+- Nunca commitarei tokens/credenciais. Use GitHub Secrets / variáveis de ambiente para CI e integrações.
+- Recomendo criar tokens com escopo mínimo necessário e revogá-los quando não mais necessários.
 
-### My skills are mainly focused on programming languages such as Python, Ruby, and PHP, and I am always learning and exploring new technologies related to AI development, Databases, and APIs. I have experience with popular frameworks like Django, and I am familiar with both relational and non-relational databases such as MySQL and SQLite3.
-### I am always interested in technical challenges and learning new technologies. Besides software development, I also enjoy sharing knowledge and contributing to the open-source community. You can find some of my projects on my GitHub profile.
+Contribuições
+Contribuições são bem-vindas — veja os READMEs individuais para instruções específicas de cada projeto. Se estiver interessado em colaborar em segurança (pentest, revisão de código), me mande uma mensagem.
+
+Licença
+A maior parte dos meus projetos está sob MIT License (veja o arquivo LICENSE em cada repositório).
+
