@@ -1,13 +1,18 @@
 <h1 align="center">Jackson Vitório</h1>
 
 <p align="center">
+  <b>Português</b> · <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <b>Back-end Developer & Information Security</b><br/>
   Python · Ruby · FastAPI · Cybersecurity
 </p>
 
 <p align="center">
   Desenvolvo aplicações web, automações e ferramentas<br/>
-  Interesse em segurança ofensiva e Machine Learning aplicado à detecção de ameaças.
+  Experiência prática com pipelines CI/CD, testes automatizados e deploy em containers.<br/>
+  Interesse em segurança ofensiva e Machine Learning aplicado à ameaças em tecnologia.
 </p>
 
 <p align="center">
